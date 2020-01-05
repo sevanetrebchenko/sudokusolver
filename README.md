@@ -9,5 +9,6 @@ If no solution to the provided board is found, the line "No solution to given bo
 Provided is a sudoku board generator executable, qqwing. Source: https://qqwing.com/download.html
 
 ## Compilation
-Generate puzzles: java -jar qqwing-1.3.4.jar --generate 100 --one-line
+Generate puzzles to console window: java -jar qqwing-1.3.4.jar --generate 100 --one-line
+
 Solutions: java -jar qqwing-1.3.4.jar --generate 100 --one-line | java -jar sudoku-solver.jar > solved_sudoku.txt | mv solved_sudoku.txt ../../../solution/
