@@ -13,4 +13,4 @@ Generate puzzles to console window:
 ````java -jar qqwing-1.3.4.jar --generate 100 --one-line````
 
 Solutions: 
-````java -jar qqwing-1.3.4.jar --generate 100 --one-line | java -jar sudoku-solver.jar > solved_sudoku.txt | mv solved_sudoku.txt ../../../solution/````
+````java -jar qqwing-1.3.4.jar --generate 100 --one-line | java -jar sudoku-solver.jar > solved_sudoku.txt | mv solved_sudoku.txt ../../solution/````
