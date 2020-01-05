@@ -2,7 +2,7 @@
 .idea/
 *.iml
 *.iws
-pom.xml
+*.xml
 
 # Maven
 log/
