@@ -8,9 +8,5 @@ If no solution to the provided board is found, the line "No solution to given bo
 ## Artifacts
 Provided is a sudoku board generator, QQWing Sudoku. [Download](https://qqwing.com/download.html)
 
-## Compilation
-Generate puzzles to console window: 
-````java -jar qqwing-1.3.4.jar --generate 100 --one-line````
-
-Solutions: 
+## Sample Project Compilation
 ````java -jar qqwing-1.3.4.jar --generate 100 --one-line | java -jar sudoku-solver.jar > solved_sudoku.txt | mv solved_sudoku.txt ../../solution/````
