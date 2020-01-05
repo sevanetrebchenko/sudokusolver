@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f83c3e3-e111-436f-ba53-9c1ed80e0104" name="Default Changelist" comment="" />
+    <list default="true" id="3f83c3e3-e111-436f-ba53-9c1ed80e0104" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/sudoku_solver_jar/java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/sudoku_solver_jar/sudoku-solver.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/sudoku_solver_jar/sudoku-solver.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/sudoku_solver_jar/testingoutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sevanetrebchenko/SudokuSolver/SudokuSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sevanetrebchenko/SudokuSolver/SudokuSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sudoku-solver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sevanetrebchenko/SudokuSolver/SudokuSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sevanetrebchenko/SudokuSolver/SudokuSolver.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VxQjqw1XRDQREaYoneGxNMeDA6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -31,6 +44,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -78,6 +92,17 @@
       <updated>1561238100744</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>

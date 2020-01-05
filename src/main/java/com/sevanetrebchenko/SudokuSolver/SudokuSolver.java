@@ -13,7 +13,7 @@ public class SudokuSolver {
             // Read the line from stdin and convert to int array
             int[] data = parse(console.nextLine());
 
-            int sudokuBoard[][] = new int[9][9];
+            int[][] sudokuBoard = new int[9][9];
             int counter = 0;
             for (int i = 0; i < 9; i++) {
                 for (int j = 0; j < 9; j++) {
@@ -28,6 +28,7 @@ public class SudokuSolver {
             System.out.println();
 
             if (board.solve()) {
+                System.out.println("SOLUTION: ");
                 board.printBoard();
             } else {
                 System.out.println("No solution to given board.");
@@ -36,7 +37,7 @@ public class SudokuSolver {
         }
     }
 
-    public static int[] parse(String data) {
+    private static int[] parse(String data) {
         return data.chars().map(c -> c == '.' ? 0 : c - '0').toArray();
     }
 }
