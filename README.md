@@ -6,7 +6,7 @@ the ASCII solution of the board to the console.
 If no solution to the provided board is found, the line "No solution to given board." is printed instead.
 
 ## Artifacts
-Provided is a sudoku board generator executable, QQWing Sudoku. [Download](https://qqwing.com/download.html)
+Provided is a sudoku board generator, QQWing Sudoku. [Download](https://qqwing.com/download.html)
 
 ## Compilation
 Generate puzzles to console window: 
