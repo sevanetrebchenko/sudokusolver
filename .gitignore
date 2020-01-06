@@ -6,6 +6,5 @@
 
 # Maven
 out/production/
-out/artifacts/
 log/
 target/
